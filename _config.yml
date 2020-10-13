@@ -279,3 +279,10 @@ defaults:
       comments: true
       share: false
       related: false
+
+# collections
+collections_dir: docs
+collections:
+  -TIL:
+    -output: true
+  
